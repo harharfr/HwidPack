@@ -1,6 +1,7 @@
 # ✅ Harhar's HWID Pack - Step-by-Step Guide
 
 > ⚠️ **Important:** Always run `.exe` and `.bat` files as **Administrator**.
+> 🙏  **Credits** All respect goes to the original creators.
 
 ---
 
